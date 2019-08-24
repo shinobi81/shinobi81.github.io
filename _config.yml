@@ -77,7 +77,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "Z9FMCAaozOxF3TDpDbyVFEZjRedQL58KUWC8PRYm1YY"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -112,7 +112,7 @@ author:
   avatar           : "/assets/images/Andrea_Camillacci_photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Rome"
-  email            : "shinobi28881@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
